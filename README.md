@@ -1,13 +1,19 @@
-# PACE
+# PACE V8
 
-Aktualizacja V7 — identyfikacja PACE i ekran powitalny.
+## Aktualizacja V8
+- Ujednolicenie marki PACE i usunięcie pozostałych elementów starego brandingu.
+- Zachowanie lokalnych danych użytkownika przy migracji do nowego klucza zapisu.
+- Przebudowa Odżywiania: cztery niezależne kafelki posiłków, status spożycia i jakości.
+- Odświeżenie Suplementacji z dziennym postępem i osobnymi pozycjami; zachowanie zapisanej listy.
+- Nowa sekcja Sauna z odliczaniem sesji, oceną samopoczucia, przerwą i ręcznym startem kolejnej rundy.
+- Przebudowa Regeneracji: ręczne dane snu z Bevel oraz prowadzona poranna mobilizacja.
+- Nowa sekcja Statystyki z przeglądem, treningiem, regeneracją i historią.
+- Dodanie planu treningowego na 16–24 listopada 2026 bez nadpisywania wcześniejszych wpisów.
+- Ocena techniki po zapisaniu serii i zapis RIR w trakcie przerwy.
+- Poprawki responsywności iPhone’a, nagłówka PACE i przycisku wyboru miesiąca.
+- Rozszerzenie cache PWA o wszystkie lokalne ilustracje ćwiczeń.
 
-## Zmiany
-- Zmieniono nazwę i identyfikację wizualną na PACE.
-- Dodano czarno-biały ekran powitalny z logo, aktualną datą i zegarem.
-- Dodano skrót instalacji/dodania do ekranu głównego (na iOS instrukcja Safari → Udostępnij → Dodaj do ekranu początkowego).
-- Usunięto pływającą ikonę AI.
-- Ujednolicono wygląd aplikacji do minimalistycznej czerni i bieli.
-- Zachowano dotychczasowe funkcje, dane lokalne i ilustracje ćwiczeń.
+## Ważne
+Dane aplikacji pozostają przechowywane lokalnie na urządzeniu. Przed aktualizacją warto wykonać eksport JSON w Profilu. Dane snu z Bevel wpisuje się ręcznie; automatyczny odczyt Apple Health wymagałby natywnej aplikacji i integracji HealthKit.
 
-Wgraj zawartość archiwum do repozytorium GitHub Pages, zastępując stare pliki.
+Opublikuj zawartość archiwum w katalogu głównym repozytorium GitHub Pages.
