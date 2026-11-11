@@ -1,11 +1,13 @@
-# PROJECT CR7 — V5
+# PACE
 
-Wersja V5 zawiera ekran powitalny „Witaj z powrotem” z przyciskiem „Wejdź do projektu”, usuwa logo Ronaldo z nagłówka oraz dodaje plan treningowy na 11–15 listopada 2026.
+Aktualizacja V7 — identyfikacja PACE i ekran powitalny.
 
-Plan na środę 11.11 łączy bloki poniedziałkowy, wtorkowy i środowy zgodnie z prośbą użytkownika. To zapis zaległych jednostek do podglądu/testu aplikacji — nie zalecenie wykonywania całej objętości jednego dnia. Wykonanie wszystkich bloków naraz byłoby bardzo dużym obciążeniem.
+## Zmiany
+- Zmieniono nazwę i identyfikację wizualną na PACE.
+- Dodano czarno-biały ekran powitalny z logo, aktualną datą i zegarem.
+- Dodano skrót instalacji/dodania do ekranu głównego (na iOS instrukcja Safari → Udostępnij → Dodaj do ekranu początkowego).
+- Usunięto pływającą ikonę AI.
+- Ujednolicono wygląd aplikacji do minimalistycznej czerni i bieli.
+- Zachowano dotychczasowe funkcje, dane lokalne i ilustracje ćwiczeń.
 
-Dane treningowe zapisują się lokalnie w przeglądarce. GitHub Pages wymaga opublikowania zawartości repozytorium po stronie GitHuba.
-
-
-## V7 — ilustracje ćwiczeń
-Każde ćwiczenie ma lokalny schemat SVG zapisany w katalogu exercises. Grafiki działają offline i nie wymagają zewnętrznych serwisów. Pamięć podręczna Service Workera: cr7-v7. Dane użytkownika pozostają w dotychczasowym localStorage.
+Wgraj zawartość archiwum do repozytorium GitHub Pages, zastępując stare pliki.
