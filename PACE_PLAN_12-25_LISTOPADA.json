@@ -1,0 +1,853 @@
+{
+  "pace_plan_package": "PACE-TRAINING-PLAN",
+  "version": "1.0",
+  "title": "PACE · Plan treningowy 12–25 listopada 2026",
+  "plans": {
+    "2026-11-12": {
+      "date": "2026-11-12",
+      "label": "CZWARTEK · KLATKA + TRICEPS",
+      "items": [
+        {
+          "id": "paceplan-2026-11-12-1",
+          "name": "Wyciskanie na maszynie",
+          "sets": 4,
+          "reps": "8–10",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 120,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-12-2",
+          "name": "Wyciskanie na skosie dodatnim",
+          "sets": 3,
+          "reps": "10",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 120,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-12-3",
+          "name": "Rozpiętki na maszynie",
+          "sets": 3,
+          "reps": "12",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 75,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-12-4",
+          "name": "Butterfly",
+          "sets": 2,
+          "reps": "15",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 60,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-12-5",
+          "name": "Prostowanie ramion na wyciągu",
+          "sets": 3,
+          "reps": "12",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 60,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-12-6",
+          "name": "Triceps nad głową na wyciągu",
+          "sets": 3,
+          "reps": "12",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 60,
+          "details": "",
+          "section": ""
+        }
+      ]
+    },
+    "2026-11-13": {
+      "date": "2026-11-13",
+      "label": "PIĄTEK · BIEGANIE – BAZA TLENOWA",
+      "items": [
+        {
+          "id": "paceplan-2026-11-13-1",
+          "name": "Bieganie – rozgrzewka 5 min",
+          "sets": 1,
+          "reps": "5 min",
+          "kg": 0,
+          "kind": "run",
+          "rest": 0,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-13-2",
+          "name": "Bieganie – spokojny bieg 35 min · 6:15–6:50 min/km · nachylenie 1%",
+          "sets": 1,
+          "reps": "35 min",
+          "kg": 0,
+          "kind": "run",
+          "rest": 0,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-13-3",
+          "name": "Bieganie – schłodzenie 5 min",
+          "sets": 1,
+          "reps": "5 min",
+          "kg": 0,
+          "kind": "run",
+          "rest": 0,
+          "details": "",
+          "section": ""
+        }
+      ]
+    },
+    "2026-11-14": {
+      "date": "2026-11-14",
+      "label": "SOBOTA · PLECY + BICEPS",
+      "items": [
+        {
+          "id": "paceplan-2026-11-14-1",
+          "name": "Ściąganie drążka",
+          "sets": 4,
+          "reps": "10",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 90,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-14-2",
+          "name": "Wiosłowanie na maszynie",
+          "sets": 4,
+          "reps": "10",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 90,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-14-3",
+          "name": "Wiosłowanie z podparciem klatki",
+          "sets": 3,
+          "reps": "12",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 90,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-14-4",
+          "name": "Przyciąganie prostych ramion na wyciągu",
+          "sets": 3,
+          "reps": "12",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 60,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-14-5",
+          "name": "Biceps na maszynie",
+          "sets": 3,
+          "reps": "12",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 60,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-14-6",
+          "name": "Uginanie ramion na wyciągu",
+          "sets": 3,
+          "reps": "12",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 60,
+          "details": "",
+          "section": ""
+        }
+      ]
+    },
+    "2026-11-15": {
+      "date": "2026-11-15",
+      "label": "NIEDZIELA · ROWER + SAUNA",
+      "items": [
+        {
+          "id": "paceplan-2026-11-15-1",
+          "name": "Rower – rozgrzewka 10 min",
+          "sets": 1,
+          "reps": "10 min",
+          "kg": 0,
+          "kind": "bike",
+          "rest": 0,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-15-2",
+          "name": "Rower – jednostajna jazda 45 min · RPE 3–4/10",
+          "sets": 1,
+          "reps": "45 min",
+          "kg": 0,
+          "kind": "bike",
+          "rest": 0,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-15-3",
+          "name": "Rower – schłodzenie 5 min",
+          "sets": 1,
+          "reps": "5 min",
+          "kg": 0,
+          "kind": "bike",
+          "rest": 0,
+          "details": "",
+          "section": ""
+        }
+      ]
+    },
+    "2026-11-16": {
+      "date": "2026-11-16",
+      "label": "PONIEDZIAŁEK · NOGI + BRZUCH",
+      "items": [
+        {
+          "id": "paceplan-2026-11-16-1",
+          "name": "Suwnica",
+          "sets": 4,
+          "reps": "10",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 120,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-16-2",
+          "name": "Uginanie nóg siedząc",
+          "sets": 3,
+          "reps": "12",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 90,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-16-3",
+          "name": "Prostowanie nóg",
+          "sets": 3,
+          "reps": "12",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 90,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-16-4",
+          "name": "Odwodzenie nóg",
+          "sets": 3,
+          "reps": "15",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 60,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-16-5",
+          "name": "Wspięcia na palce",
+          "sets": 4,
+          "reps": "15",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 60,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-16-6",
+          "name": "Brzuch na maszynie",
+          "sets": 3,
+          "reps": "15",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 60,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-16-7",
+          "name": "Plank",
+          "sets": 3,
+          "reps": "40 s",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 60,
+          "details": "",
+          "section": ""
+        }
+      ]
+    },
+    "2026-11-17": {
+      "date": "2026-11-17",
+      "label": "WTOREK · BIEGANIE – INTERWAŁY",
+      "items": [
+        {
+          "id": "paceplan-2026-11-17-1",
+          "name": "Bieganie – rozgrzewka 10 min",
+          "sets": 1,
+          "reps": "10 min",
+          "kg": 0,
+          "kind": "run",
+          "rest": 0,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-17-2",
+          "name": "Bieganie – 6 × 2 min szybko · 5:00–5:20 min/km; 2 min trucht między odcinkami",
+          "sets": 1,
+          "reps": "6 powtórzeń",
+          "kg": 0,
+          "kind": "run",
+          "rest": 0,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-17-3",
+          "name": "Bieganie – schłodzenie 5–10 min",
+          "sets": 1,
+          "reps": "5–10 min",
+          "kg": 0,
+          "kind": "run",
+          "rest": 0,
+          "details": "",
+          "section": ""
+        }
+      ]
+    },
+    "2026-11-18": {
+      "date": "2026-11-18",
+      "label": "ŚRODA · BARKI + RAMIONA + BRZUCH",
+      "items": [
+        {
+          "id": "paceplan-2026-11-18-1",
+          "name": "Wyciskanie barków na maszynie",
+          "sets": 3,
+          "reps": "10",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 90,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-18-2",
+          "name": "Unoszenie ramion bokiem",
+          "sets": 4,
+          "reps": "15",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 60,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-18-3",
+          "name": "Odwrotne rozpiętki",
+          "sets": 3,
+          "reps": "15",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 60,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-18-4",
+          "name": "Biceps na maszynie",
+          "sets": 3,
+          "reps": "12",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 60,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-18-5",
+          "name": "Triceps na wyciągu",
+          "sets": 3,
+          "reps": "12",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 60,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-18-6",
+          "name": "Brzuch na maszynie",
+          "sets": 3,
+          "reps": "15",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 60,
+          "details": "",
+          "section": ""
+        }
+      ]
+    },
+    "2026-11-19": {
+      "date": "2026-11-19",
+      "label": "CZWARTEK · KLATKA + PLECY",
+      "items": [
+        {
+          "id": "paceplan-2026-11-19-1",
+          "name": "Wyciskanie na klatkę",
+          "sets": 3,
+          "reps": "10",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 90,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-19-2",
+          "name": "Rozpiętki",
+          "sets": 3,
+          "reps": "12",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 75,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-19-3",
+          "name": "Ściąganie drążka",
+          "sets": 3,
+          "reps": "10",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 90,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-19-4",
+          "name": "Wiosłowanie na maszynie",
+          "sets": 3,
+          "reps": "12",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 90,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-19-5",
+          "name": "Przyciąganie prostych ramion",
+          "sets": 2,
+          "reps": "15",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 60,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-19-6",
+          "name": "Brzuch na maszynie",
+          "sets": 3,
+          "reps": "15",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 60,
+          "details": "",
+          "section": ""
+        }
+      ]
+    },
+    "2026-11-20": {
+      "date": "2026-11-20",
+      "label": "PIĄTEK · ROWER – INTERWAŁY",
+      "items": [
+        {
+          "id": "paceplan-2026-11-20-1",
+          "name": "Rower – rozgrzewka 10 min",
+          "sets": 1,
+          "reps": "10 min",
+          "kg": 0,
+          "kind": "bike",
+          "rest": 0,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-20-2",
+          "name": "Rower – 4 × 5 min mocno · 3 min lekko między odcinkami",
+          "sets": 1,
+          "reps": "4 powtórzenia",
+          "kg": 0,
+          "kind": "bike",
+          "rest": 0,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-20-3",
+          "name": "Rower – schłodzenie 10 min",
+          "sets": 1,
+          "reps": "10 min",
+          "kg": 0,
+          "kind": "bike",
+          "rest": 0,
+          "details": "",
+          "section": ""
+        }
+      ]
+    },
+    "2026-11-21": {
+      "date": "2026-11-21",
+      "label": "SOBOTA · NOGI",
+      "items": [
+        {
+          "id": "paceplan-2026-11-21-1",
+          "name": "Suwnica",
+          "sets": 3,
+          "reps": "10",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 120,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-21-2",
+          "name": "Uginanie nóg",
+          "sets": 3,
+          "reps": "12",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 90,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-21-3",
+          "name": "Prostowanie nóg",
+          "sets": 3,
+          "reps": "12",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 90,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-21-4",
+          "name": "Odwodzenie nóg",
+          "sets": 2,
+          "reps": "15",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 60,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-21-5",
+          "name": "Wspięcia na palce",
+          "sets": 3,
+          "reps": "15",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 60,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-21-6",
+          "name": "Plank",
+          "sets": 3,
+          "reps": "45 s",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 60,
+          "details": "",
+          "section": ""
+        }
+      ]
+    },
+    "2026-11-22": {
+      "date": "2026-11-22",
+      "label": "NIEDZIELA · ROWER – DŁUGA WYTRZYMAŁOŚĆ",
+      "items": [
+        {
+          "id": "paceplan-2026-11-22-1",
+          "name": "Rower – rozgrzewka 10 min",
+          "sets": 1,
+          "reps": "10 min",
+          "kg": 0,
+          "kind": "bike",
+          "rest": 0,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-22-2",
+          "name": "Rower – spokojna jazda 60 min · RPE 3–4/10",
+          "sets": 1,
+          "reps": "60 min",
+          "kg": 0,
+          "kind": "bike",
+          "rest": 0,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-22-3",
+          "name": "Rower – schłodzenie 10 min",
+          "sets": 1,
+          "reps": "10 min",
+          "kg": 0,
+          "kind": "bike",
+          "rest": 0,
+          "details": "",
+          "section": ""
+        }
+      ]
+    },
+    "2026-11-23": {
+      "date": "2026-11-23",
+      "label": "PONIEDZIAŁEK · REGENERACJA AKTYWNA",
+      "items": [
+        {
+          "id": "paceplan-2026-11-23-1",
+          "name": "Spacer",
+          "sets": 1,
+          "reps": "20–30 min",
+          "kg": 0,
+          "kind": "run",
+          "rest": 0,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-23-2",
+          "name": "Mobilność całego ciała",
+          "sets": 1,
+          "reps": "15–20 min",
+          "kg": 0,
+          "kind": "run",
+          "rest": 0,
+          "details": "",
+          "section": ""
+        }
+      ]
+    },
+    "2026-11-24": {
+      "date": "2026-11-24",
+      "label": "WTOREK · GÓRA CIAŁA",
+      "items": [
+        {
+          "id": "paceplan-2026-11-24-1",
+          "name": "Wyciskanie na klatkę",
+          "sets": 3,
+          "reps": "10",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 90,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-24-2",
+          "name": "Ściąganie drążka",
+          "sets": 3,
+          "reps": "10",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 90,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-24-3",
+          "name": "Wiosłowanie na maszynie",
+          "sets": 3,
+          "reps": "12",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 90,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-24-4",
+          "name": "Wyciskanie barków",
+          "sets": 3,
+          "reps": "10",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 90,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-24-5",
+          "name": "Unoszenie ramion bokiem",
+          "sets": 3,
+          "reps": "15",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 60,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-24-6",
+          "name": "Biceps",
+          "sets": 2,
+          "reps": "12",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 60,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-24-7",
+          "name": "Triceps",
+          "sets": 2,
+          "reps": "12",
+          "kg": 0,
+          "kind": "gym",
+          "rest": 60,
+          "details": "",
+          "section": ""
+        }
+      ]
+    },
+    "2026-11-25": {
+      "date": "2026-11-25",
+      "label": "ŚRODA · BIEGANIE – TEST 5 KM",
+      "items": [
+        {
+          "id": "paceplan-2026-11-25-1",
+          "name": "Bieganie – rozgrzewka 10 min",
+          "sets": 1,
+          "reps": "10 min",
+          "kg": 0,
+          "kind": "run",
+          "rest": 0,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-25-2",
+          "name": "Test 5 km · pierwsze 2 km spokojnie, kolejne 2 km równo, ostatni kilometr według samopoczucia",
+          "sets": 1,
+          "reps": "5 km",
+          "kg": 0,
+          "kind": "run",
+          "rest": 0,
+          "details": "",
+          "section": ""
+        },
+        {
+          "id": "paceplan-2026-11-25-3",
+          "name": "Bieganie – schłodzenie 5 min",
+          "sets": 1,
+          "reps": "5 min",
+          "kg": 0,
+          "kind": "run",
+          "rest": 0,
+          "details": "",
+          "section": ""
+        }
+      ]
+    }
+  },
+  "saunaPlan": {
+    "2026-11-12": {
+      "planned": true,
+      "minutes": 8
+    },
+    "2026-11-13": {
+      "planned": true,
+      "minutes": 8
+    },
+    "2026-11-14": {
+      "planned": true,
+      "minutes": 8
+    },
+    "2026-11-15": {
+      "planned": true,
+      "minutes": 8
+    },
+    "2026-11-16": {
+      "planned": true,
+      "minutes": 8
+    },
+    "2026-11-17": {
+      "planned": true,
+      "minutes": 8
+    },
+    "2026-11-18": {
+      "planned": true,
+      "minutes": 8
+    },
+    "2026-11-19": {
+      "planned": true,
+      "minutes": 8
+    },
+    "2026-11-20": {
+      "planned": true,
+      "minutes": 8
+    },
+    "2026-11-21": {
+      "planned": true,
+      "minutes": 8
+    },
+    "2026-11-22": {
+      "planned": true,
+      "minutes": 8
+    },
+    "2026-11-23": {
+      "planned": true,
+      "minutes": 8
+    },
+    "2026-11-24": {
+      "planned": true,
+      "minutes": 8
+    },
+    "2026-11-25": {
+      "planned": true,
+      "minutes": 8
+    }
+  }
+}
