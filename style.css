@@ -31,3 +31,57 @@ button,a,input,select,textarea{-webkit-tap-highlight-color:transparent;}
 button{touch-action:manipulation;}
 @media(max-width:430px){header{padding-left:20px;padding-right:20px}.brand-logo{width:clamp(82px,25vw,112px);height:auto;max-height:46px}.hero{padding:18px;border-radius:18px}.hero b{font-size:clamp(17px,4.6vw,21px);line-height:1.25}.tile{min-height:108px;padding:18px}.tile strong{font-size:clamp(19px,5.4vw,23px);overflow-wrap:anywhere}.welcome-logo{width:min(72vw,310px);max-height:120px}.welcome-date{padding:20px 0 24px}}
 @media(min-width:650px){.container{min-height:100dvh}}
+
+/* PACE V8 · mobile-first refinements */
+header{padding:calc(16px + env(safe-area-inset-top)) 18px 12px;min-height:70px;gap:12px}
+.brand-logo{display:block;width:clamp(112px,34vw,158px);height:auto;max-height:42px;object-fit:contain;object-position:left center}
+.header-actions{display:flex;align-items:center;gap:9px;flex-shrink:0}
+.stats-shortcut{width:38px;height:38px;border:1px solid #666;border-radius:50%;background:#17191b;color:#fff;font-size:19px}
+.avatar{flex-shrink:0}
+.meal-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.meal-tile,.supp-tile{border:1px solid #424548;border-radius:17px;background:#191b1e;padding:14px;min-width:0}
+.meal-head{display:flex;align-items:center;gap:10px;min-height:42px;margin-bottom:12px}
+.meal-head b{font-size:14px}
+.meal-icon{width:34px;height:34px;display:grid;place-items:center;border:1px solid #777;border-radius:50%;font-size:21px;color:#fff}
+.meal-controls{display:grid;gap:6px}
+.meal-controls label,.label{font-size:11px;color:#aeb0b2;letter-spacing:.5px}
+.segmented{display:flex;gap:5px;flex-wrap:wrap;margin:5px 0 12px}
+.segmented button{flex:1;min-width:0;border:1px solid #45484b;border-radius:10px;background:#25282b;color:#ddd;padding:9px 7px;font-size:12px}
+.segmented button.selected{background:#eee;color:#111;border-color:#eee}
+.supplement-summary{display:grid;gap:8px}
+.supplement-summary h3{margin:6px 0}
+.supp-list{display:grid;gap:9px}
+.supp-tile{display:flex;align-items:center;gap:12px;min-height:76px}
+.supp-icon{width:42px;height:42px;display:grid;place-items:center;border:1px solid #686b6d;border-radius:13px;font-size:23px}
+.supp-name{flex:1;font-weight:650;font-size:14px}
+.supp-name small{display:block;color:#9da0a3;font-size:11px;font-weight:400;margin-top:4px}
+.supp-tile input{width:20px;height:20px;accent-color:#fff}
+.supp-check{font-size:18px;color:#9bd3a5;min-width:15px}
+.mobility-guide{margin-top:14px;padding:16px;border:1px solid #777;border-radius:16px;background:#111315}
+.mobility-guide h3{font-size:18px;margin:12px 0}
+.success-note{padding:12px;border:1px solid #55775d;border-radius:12px;color:#b8e2bf}
+.stats-tabs{overflow-x:auto}
+.stats-tabs button{white-space:nowrap;font-size:12px}
+.progress{display:flex;align-items:flex-end;gap:7px;height:120px}
+.progress button,.progress>div{flex:1;min-width:8px;border:0;border-radius:6px 6px 2px 2px;background:#c8b89d}
+.history-row{display:flex;width:100%;justify-content:space-between;padding:13px 0;background:transparent;color:#eee;border:0;border-bottom:1px solid #333;text-align:left}
+.sauna-clock{text-align:center;padding:20px}
+.sauna-clock strong{font-size:46px;letter-spacing:2px;font-variant-numeric:tabular-nums}
+.sauna-clock p{color:#a5a7ab}
+@media(max-width:380px){.meal-grid{grid-template-columns:1fr}.meal-tile{padding:13px}.tile{padding:17px}.tile strong{font-size:20px}.page{padding:0 14px}.cards{padding:0 14px}}
+@media(min-width:700px){.meal-grid{grid-template-columns:1fr 1fr}.container{padding-bottom:calc(110px + env(safe-area-inset-bottom))}}
+
+.rest-rir{display:grid;grid-template-columns:1fr;gap:8px;margin:14px 0;text-align:left}.rest-rir label{font-size:12px;color:#aaa}.rest-rir select{padding:12px;border-radius:10px;background:#111315;color:#fff;border:1px solid #555}
+
+.month-short{position:relative;display:grid;place-items:center;min-width:44px;height:34px;padding:0 10px;border:1px solid #555;border-radius:10px;background:#222;color:#fff;font-size:12px;text-transform:lowercase;overflow:hidden}
+.month-short .cal-date{position:absolute;inset:0;width:100%;height:100%;opacity:0;cursor:pointer}
+.cal-head{gap:8px;min-width:0}.cal-head strong{font-size:12px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+
+.meal-icon svg{width:23px;height:23px;fill:none;stroke:#fff;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}
+
+/* V8 calendar month shortcut: fixed compact month-only chip, never clipped. */
+.cal-head{display:flex;align-items:center;gap:7px;min-width:0}
+.cal-head strong{flex:1;min-width:0;text-align:center;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.month-short{position:relative;display:flex;align-items:center;justify-content:center;flex:0 0 48px;width:48px;min-width:48px;max-width:48px;height:36px;padding:0;border:1px solid #555;border-radius:10px;background:#222;color:#fff;font-size:12px;text-transform:lowercase;overflow:hidden;white-space:nowrap}
+.month-short span{pointer-events:none}
+.month-short .cal-date{position:absolute;inset:0;width:100%;height:100%;min-width:0;max-width:none;opacity:0;cursor:pointer}
